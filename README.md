@@ -16,7 +16,7 @@ Latest version available on [arXiv](https://arxiv.org/abs/2312.15020)
 If you use this article to support your research and publish a paper, we encourage you to cite the following paper in your publication:
 
 ```
-@article{sutoyo2023detecting,
+@article{sutoyo2024detecting,
   title={Self-Admitted Technical Debt Detection Approaches: A Decade Systematic Review},
   author={Sutoyo, Edi and Capiluppi, Andrea},
   journal={arXiv preprint arXiv:2312.15020},
