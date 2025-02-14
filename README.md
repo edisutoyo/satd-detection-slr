@@ -1,4 +1,4 @@
-# Replication package for an article entitled Self-Admitted Technical Debt Detection Approaches: A Decade Systematic Review
+# Supplementary material for an article entitled Self-Admitted Technical Debt Detection Approaches: A Decade Systematic Review
 
 ##### Authors: Edi Sutoyo, Andrea Capiluppi
 
